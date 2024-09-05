@@ -1,12 +1,8 @@
 # 💫 About Me:
 👋 Hello there! 👨‍💻<br><br>
 I'm Devraj Prasad, currently working on exciting projects that involve leveraging cutting-edge technologies to solve real-world problems. My focus is on building scalable and efficient solutions that make a positive impact.<br><br>
-I'm also eager to collaborate with like-minded individuals on innovative projects. Whether it's brainstorming new ideas, coding together, or contributing to open-source initiatives, I'm always open to collaboration opportunities. 🤝<br><br>
-While I'm confident in my skills, I believe in the power of teamwork and learning from others. If you have expertise in areas such as web development, I'd love to connect and learn from your experiences. 🌐<br><br>
 Currently, I'm sharpening my skills in various programming languages and frameworks, and I'm particularly excited about diving deeper into full-stack web development. Building dynamic and interactive web applications is my latest passion, and I'm committed to mastering both the frontend and backend technologies required for it. 💻<br><br>
 Feel free to reach out to me if you share similar interests or if you have any exciting projects you'd like to collaborate on! 🚀<br><br>
-**Ask me about:** Technology, coding challenges, project ideas, or anything you find intriguing! 💬<br><br>
-**Fun Fact:** Did you know that Honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible! 🍯<br><br>
 Let's connect and build something amazing together! 🌟<br><br>
 
 ## 🌐 Socials:
