@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm **Devraj Prasad**, a **BCA student at LPU**, passionate about **Full-Stack Development** and **Data Analytics**.<br><br>🔭 Currently learning full-stack technologies, databases, and data analysis  <br>💬 Ask me about web development, JavaScript, databases, and analytics basics  <br>⚡ Fun fact: I learn best by building and improving real projects
+## 👋 About Me<br><br>I'm **Devraj Prasad**, a **BCA student at LPU**, passionate about **Full-Stack Development** and **Data Analytics**.<br><br>🔭 Currently learning full-stack technologies, databases, and data analysis  <br>💬 Ask me about web development, JavaScript, databases, and analytics  <br>⚡ Fun fact: I learn best by building and improving real projects
 
 
 ## 🌐 Socials:
