@@ -5,7 +5,7 @@
 <h3 align="center">📊 Data Analyst | Business Intelligence | SQL • Python • Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ED3EA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+Progress+🤖;Data+Analyst+%7C+Python+Developer+%7C+SQL+Expert;Building+Smart+Apps+and+Analytical+Dashboards+📊;Exploring+AI+and+Data+for+Real-World+Impact+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ED3EA&center=true&vCenter=true&width=700&lines=Data+Analyst+📊;SQL+%7C+Python+%7C+Power+BI;Business+Intelligence+%7C+Data+Analytics;Turning+Data+into+Insights+💡" alt="Typing animation" />
 </p>
 
 <p align="center">
